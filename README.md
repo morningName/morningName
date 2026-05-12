@@ -25,14 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=morningName&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366f1&fire=a5b4fc&currStreakLabel=6366f1&sideLabels=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" />
 </p>
 
-## :handshake: Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/morningName"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" /></a>&nbsp;
-  <a href="https://twitter.com/morningName"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" /></a>&nbsp;
-  <a href="mailto:hello@morningname.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" /></a>
-</p>
-
 ---
 
 <p align="center">
