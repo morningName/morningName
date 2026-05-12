@@ -13,8 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morningName&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a5b4fc&text_color=c9d1d9&ring_color=6366f1&count_private=true&include_all_commits=true&hide=prs,issues&show=repos" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morningName&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morningName&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morningName&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morningName&theme=github_dark" />
 </p>
 
 <p align="center">
